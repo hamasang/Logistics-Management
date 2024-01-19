@@ -14,6 +14,8 @@
 
 ### **개발 중인 창고관리용 앱 프로토타입**
 
+[![블루투스 스캐너](https://github.com/hamasang/Logistics-Management/blob/main/1.mp4_20240119_140846.923.jpg?raw=true)](https://github.com/hamasang/Logistics-Management/raw/main/1.mp4)
+[![블루투스 스캐너](https://github.com/hamasang/Logistics-Management/blob/main/2.mp4_20240119_140926.740.jpg?raw=true)](https://github.com/hamasang/Logistics-Management/raw/main/2.mp4)
 현재 개발 중인 창고관리용 앱은 사용자 인터페이스와 접근성에 중점을 두고 있습니다. 이 앱은 창고 관리 프로세스를 최적화하고, 데이터 분석과 보고서 생성을 용이하게 합니다.
 
 ### **앱 개발의 도전과 기회**
